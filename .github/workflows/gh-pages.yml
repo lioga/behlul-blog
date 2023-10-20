@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    uses: importantimport/.github/.github/workflows/pnpm-gh-pages.yml@main
+    uses: lioga/my-github-workflows/.github/workflows/pnpm-gh-pages.yml@main
     permissions:
       contents: write
     with:
