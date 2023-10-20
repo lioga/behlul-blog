@@ -3,7 +3,7 @@
   "short_name": "Behlul Akbudak",
   "lang": "en-US",
   "description": "Personal blog of Behlul Akbudak.",
-  "id": "https://https://lioga.github.io/behlul-blog//",
+  "id": "https://behlulakbudak.com/",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -12,25 +12,25 @@
   "theme_color": "#3D4451",
   "icons": [
     {
-      "src": "https://https://lioga.github.io/behlul-blog//assets/any@192.png",
+      "src": "https://behlulakbudak.com/assets/any@192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://https://lioga.github.io/behlul-blog//assets/any@512.png",
+      "src": "https://behlulakbudak.com/assets/any@512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://https://lioga.github.io/behlul-blog//assets/maskable@192.png",
+      "src": "https://behlulakbudak.com/assets/maskable@192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://https://lioga.github.io/behlul-blog//assets/maskable@512.png",
+      "src": "https://behlulakbudak.com/assets/maskable@512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

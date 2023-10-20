@@ -7,26 +7,26 @@
     xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
     xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
     <url>
-      <loc>https://https://lioga.github.io/behlul-blog/</loc>
+      <loc>https://behlulakbudak.com</loc>
     </url>
     
         <url>
-            <loc>https://https://lioga.github.io/behlul-blog//about</loc>
+            <loc>https://behlulakbudak.com/about</loc>
             <lastmod>2023-10-19T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://https://lioga.github.io/behlul-blog//seyahwander</loc>
+            <loc>https://behlulakbudak.com/seyahwander</loc>
             <lastmod>2023-10-19T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://https://lioga.github.io/behlul-blog//pcb-manufacturing</loc>
+            <loc>https://behlulakbudak.com/pcb-manufacturing</loc>
             <lastmod>2023-10-19T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://https://lioga.github.io/behlul-blog//MedSynthX</loc>
+            <loc>https://behlulakbudak.com/MedSynthX</loc>
             <lastmod>2023-10-19T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
