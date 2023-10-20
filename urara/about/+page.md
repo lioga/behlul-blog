@@ -9,4 +9,4 @@ flags:
 
 ![image description](/assets/maskable@512.png)
 
-I am a senior year electric electronics engineering student who likes PCB desing, coding, creating new things bla bla bla.
+I am a senior year electric electronics engineering student who likes PCB desing, coding, creating new things bla bla bla bla.
