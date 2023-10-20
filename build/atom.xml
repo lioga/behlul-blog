@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://https://lioga.github.io/behlul-blog//</id>
+  <title><![CDATA[Behlul Akbudak]]></title>
+  <subtitle><![CDATA[An Electronics Engineer Blog]]></subtitle>
+  <icon>https://https://lioga.github.io/behlul-blog//favicon.png</icon>
+  <link href="https://https://lioga.github.io/behlul-blog/" />
+  <link href="https://https://lioga.github.io/behlul-blog//atom.xml" rel="self" type="application/atom+xml" />
+  <updated>2023-10-20T07:48:49.545Z</updated>
+  <author>
+    <name><![CDATA[Behlul Akbudak]]></name>
+  </author>
+  <category term="Drone" scheme="https://https://lioga.github.io/behlul-blog//?tags=Drone" />
+  <category term="Autonomous" scheme="https://https://lioga.github.io/behlul-blog//?tags=Autonomous" />
+  <category term="Image-Synthesis" scheme="https://https://lioga.github.io/behlul-blog//?tags=Image-Synthesis" />
+  <category term="PCB" scheme="https://https://lioga.github.io/behlul-blog//?tags=PCB" />
+  <category term="Stable-Diffusion" scheme="https://https://lioga.github.io/behlul-blog//?tags=Stable-Diffusion" />
+  <category term="Medical" scheme="https://https://lioga.github.io/behlul-blog//?tags=Medical" />
+  <entry>
+    <title type="html"><![CDATA[SeyahWander]]></title>
+    <link href="https://https://lioga.github.io/behlul-blog//seyahwander" />
+    <id>https://https://lioga.github.io/behlul-blog//seyahwander</id>
+    <published>2023-10-19T00:00:00.000Z</published>
+    <updated>2023-10-19T00:00:00.000Z</updated>
+    <summary type="html"><![CDATA[Autonomous Drone Project with Synthetic Data]]></summary>
+    <content type="html">
+      <![CDATA[<p data-svelte-h="svelte-1kg89us">WIP</p>]]>
+    </content>
+    <category term="Drone" scheme="https://https://lioga.github.io/behlul-blog//?tags=Drone" />
+    <category term="Autonomous" scheme="https://https://lioga.github.io/behlul-blog//?tags=Autonomous" />
+    <category term="Image-Synthesis" scheme="https://https://lioga.github.io/behlul-blog//?tags=Image-Synthesis" />
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Creating Magnificent PCBs at Home]]></title>
+    <link href="https://https://lioga.github.io/behlul-blog//pcb-manufacturing" />
+    <id>https://https://lioga.github.io/behlul-blog//pcb-manufacturing</id>
+    <published>2023-10-18T00:00:00.000Z</published>
+    <updated>2023-10-19T00:00:00.000Z</updated>
+    <summary type="html"><![CDATA[PCB manufacturing with mixture of toner transfer and dry film methods]]></summary>
+    <content type="html">
+      <![CDATA[<p data-svelte-h="svelte-1kg89us">WIP</p>]]>
+    </content>
+    <category term="PCB" scheme="https://https://lioga.github.io/behlul-blog//?tags=PCB" />
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[MedSynthX]]></title>
+    <link href="https://https://lioga.github.io/behlul-blog//MedSynthX" />
+    <id>https://https://lioga.github.io/behlul-blog//MedSynthX</id>
+    <published>2023-10-17T00:00:00.000Z</published>
+    <updated>2023-10-19T00:00:00.000Z</updated>
+    <summary type="html"><![CDATA[Medical Melonama Image Synthesis with SD]]></summary>
+    <content type="html">
+      <![CDATA[<h1 id="about-me" data-svelte-h="svelte-19wf7rj"><a href="#about-me">About Me</a></h1> <p data-svelte-h="svelte-1kg89us">WIP</p>]]>
+    </content>
+    <category term="Stable-Diffusion" scheme="https://https://lioga.github.io/behlul-blog//?tags=Stable-Diffusion" />
+    <category term="Medical" scheme="https://https://lioga.github.io/behlul-blog//?tags=Medical" />
+    <category term="Image-Synthesis" scheme="https://https://lioga.github.io/behlul-blog//?tags=Image-Synthesis" />
+  </entry>
+</feed>
