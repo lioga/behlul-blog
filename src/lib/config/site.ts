@@ -22,6 +22,11 @@ export const site: SiteConfig = {
         // text: '0x4444777733334444',
         icon: 'i-simple-icons-linkedin',
         link: 'https://www.linkedin.com/in/behlulsena/',
+      },
+      {
+        // text: '0x4444777733334444',
+        icon: 'i-simple-icons-microsoftoutlook',
+        link: 'mailto:behlulsena09@hotmail.com',
       }
     ]
   },
