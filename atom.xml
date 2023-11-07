@@ -6,7 +6,7 @@
   <icon>https://behlulakbudak.com/favicon.png</icon>
   <link href="https://behlulakbudak.com" />
   <link href="https://behlulakbudak.com/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2023-11-06T08:33:57.433Z</updated>
+  <updated>2023-11-07T18:47:23.525Z</updated>
   <author>
     <name><![CDATA[Behlul Akbudak]]></name>
   </author>
@@ -45,14 +45,14 @@
     <category term="Image-Synthesis" scheme="https://behlulakbudak.com/?tags=Image-Synthesis" />
   </entry>
   <entry>
-    <title type="html"><![CDATA[Creating Magnificent PCBs at Home]]></title>
+    <title type="html"><![CDATA[Creating PCBs at Home]]></title>
     <link href="https://behlulakbudak.com/pcb-manufacturing" />
     <id>https://behlulakbudak.com/pcb-manufacturing</id>
     <published>2023-10-18T00:00:00.000Z</published>
-    <updated>2023-11-02T00:00:00.000Z</updated>
+    <updated>2023-11-07T00:00:00.000Z</updated>
     <summary type="html"><![CDATA[PCB manufacturing with mixture of toner transfer and dry film methods]]></summary>
     <content type="html">
-      <![CDATA[<p data-svelte-h="svelte-1kg89us">WIP</p>]]>
+      <![CDATA[<h2 id="introduction" data-svelte-h="svelte-ccveyw"><a href="#introduction">Introduction</a></h2> <p data-svelte-h="svelte-1cwfn4n">The goal of this project is to produce PCBs at home, starting with simple boards and gradually advancing to more complex ones. The significance of this project lies in its ability to breathe life into other projects, as it will enable the creation of boards with USB interfaces, displays, and various peripherals. I’ll keep this post updated with the project’s progress.</p> <h2 id="my-pcb-manufacturing-process" data-svelte-h="svelte-g4sc4g"><a href="#my-pcb-manufacturing-process">My PCB Manufacturing Process</a></h2> <ol data-svelte-h="svelte-7e02j8"><li>Print the top and bottom layer on a laser-jet printer to the magazine paper.</li> <li>Put it on the copper plate, which is cleaned with steel wool.</li> <li>Run through the laminator 10 times.</li> <li>For the etching solution, in a ceramic or glass bowl:Half hydrogen-peroxide, half Hydrochloric acid.</li> <li>Clean again with acetone and steel wool.</li> <li>Mark the holes, then drill.</li></ol> <p data-svelte-h="svelte-1bzb17n">At this point, the PCB is ready to use, rest of the steps for adding solder mask layer</p> <ol start="7" data-svelte-h="svelte-mv6ubq"><li>Put solder resist film on the PCB and cut sides; the film will stick.</li> <li>Run through the laminator three times.</li> <li>Print the top solder mask layer to the transparency paper.</li> <li>Tape transparency paper on glass, put the PCB under the glass, align the top layer and solder mask.</li> <li>Expose it to UV light.</li> <li>Make sodium carbonate from sodium bicarbonate by heating or use sodium carbonete, can be find as washing soda.</li> <li>Proof the solder mask layer, dissolve pads.</li></ol> <h2 id="first-attempt-failed" data-svelte-h="svelte-1ymfcro"><a href="#first-attempt-failed">First Attempt: Failed</a></h2> <p data-svelte-h="svelte-184njcj">As today, April 4th, I have all the materials I need. I wanted to print a lithium battery charging PCB with USB Type-C.</p> <p data-svelte-h="svelte-16n5i9t">My initial attempt has failed catastrophically.</p> <p><img src="img/worst-pcb.webp" alt="attempt" class="rounded-lg my-2" loading="lazy" decoding="async"></p> <h4 id="what-went-wrong" data-svelte-h="svelte-kr9zzw"><a href="#what-went-wrong">What went wrong?</a></h4> <p data-svelte-h="svelte-1guwn3a">Couple of things went wrong. First one is the lamination process. Because I gave the copper plate with the magazine paper to the laminator in so many different angles at the start of the process, the paper on it became wrinkled. Also, I should have used a better magazine paper, because the one I used left its paint on the board.</p> <p data-svelte-h="svelte-mxkwso">Another issue was the etching solution. I made a big mistake by trusting my eyes. I didn’t measure the amounts of the chemicals I used. I just poured them into the bowl. Additionally, I shake the bowl too aggressively and the solution react too fast. It bubbled a lot and eat all the copper on the board as it is seen in the picture.</p> <h4 id="whats-next" data-svelte-h="svelte-mpcy8c"><a href="#whats-next">What’s next?</a></h4> <p data-svelte-h="svelte-13ybu6g">Next week, I will:</p> <ol data-svelte-h="svelte-1jsqjkc"><li>Find a better magazine paper.</li> <li>Make lamination process more controlled.</li> <li>Measure the amounts of the chemicals I use.</li> <li>Definitely use plastic gloves instead of plastic bag.</li></ol>]]>
     </content>
     <category term="PCB" scheme="https://behlulakbudak.com/?tags=PCB" />
   </entry>
