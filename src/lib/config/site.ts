@@ -27,7 +27,13 @@ export const site: SiteConfig = {
         // text: '0x4444777733334444',
         icon: 'i-simple-icons-microsoftoutlook',
         link: 'mailto:behlulsena09@hotmail.com',
+      },
+      {
+        // text: '0x4444777733334444',
+        icon: 'i-simple-icons-googledrive',
+        link: 'https://drive.google.com/file/d/1hKr-SKl9CF0QkrnWnKnfwf4DoZS0aZZW/view',
       }
+
     ]
   },
   
