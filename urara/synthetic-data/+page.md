@@ -3,7 +3,7 @@ title: Synthetic Data | Overview
 summary: What is Synthetic Data, Where to Use It and How to Generate It
 created: 2023-10-19
 updated: 2023-10-19
-tags: ['Drone', 'Autonomous', 'Image-Synthesis']
+tags: ['Image-Synthesis']
 toc: true
 ---
 
