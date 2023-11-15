@@ -53,3 +53,15 @@ Next week, I will:
 2. Make lamination process more controlled.
 3. Measure the amounts of the chemicals I use.
 4. Definitely use plastic gloves instead of plastic bag.
+
+## Second Attempt: Partially Successful
+
+PCB etching process went smoothly. I used a better magazine paper and I was more careful with the lamination process. I also measured the amounts of the chemicals I used. I wanted a very slow etching process so I pour 3 part hydrogen peroxide and 1 part hydrochloric acid. I think result is pretty good for the small type-c routes.
+
+![pcb](img/goodpcb.webp)
+
+After that I prepared the solder-mask, stick it to the PCB, and pass through the laminator 3 times. I should have been more careful while putting the dry film onto PCB. Because of the air bubbles, some parts of the dry film teared off. After that, I expose PCB to the UV light with a transparent paper that has pads printed on top. However, I exposed PCB too much and the dry film became too hard to remove. I tried to remove it with sodium carbonate but it didn't work. So, all the pads are closed. I think I should have exposed it less.
+
+![pcb](img/dryfilm.webp)
+
+I will be testing it with different exposure times next week. Also, I will share my UV light setup.
