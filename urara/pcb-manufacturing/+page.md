@@ -65,3 +65,41 @@ After that I prepared the solder-mask, stick it to the PCB, and pass through the
 ![pcb](img/dryfilm.webp)
 
 I will be testing it with different exposure times next week. Also, I will share my UV light setup.
+
+## Success on One Layer PCBs
+
+I have been working on this project for a while now. I have made a lot of mistakes and learned a lot. Finally, I have been able to produce one layer PCBs successfully with this method.
+
+![pcb](img/combined_1_2.webp)
+
+### What was my mistakes?
+
+#### In the etching process:
+
+- My etcing solution was too strong and fast. I diluted hydrogen peroxide with water and achieved more controlled etching process. The traces came out crystal clear.
+
+#### In the dry film process:
+
+- I try to make everything pitch dark. I couldn't see anything and I made mistakes while stitching dry film and aligning transparency paper on the board. I solved this problem with a red light setup.
+
+![pcb](img/14_pcb_3.webp)
+
+- The UV light was way too strong, so I had to get creative. I grabbed a shoebox and stuck the UV light on top of it. But there was still another problem – the light was spilling onto the board from the sides. So, I cut out just the middle part of the shoebox. Now, it only lets in the UV light that's coming straight from the source. Problem solved!
+
+![pcb](img/14_pcb_5.webp)
+![pcb](img/14_pcb_6.webp)
+
+- Transparency paper was allowing light to pass through it. I solved this problem by printing the solder mask layer both on the top and bottom of the transparency paper then fold it. So I stacked two layers of transparency paper on top of each other.
+
+![pcb](img/14_pcb_4.webp)
+
+### Gift for My Girlfriend
+
+I decided to create a special gift for my girlfriend, so I designed a heart-shaped PCB with an embedded EEPROM. I wrote down some of our favorite shared memories and activities, and even added a basic menu for accessing different addresses in the EEPROM. Using the same method, I produced the PCB, and I'm really pleased with how it turned out.
+
+![pcb](img/combined_7_8.webp)
+![pcb](img/14_pcb_9.webp)
+
+### What's next?
+
+I will be working on two layer PCBs next. I will be using the same method. If I can get good results with vias, I will be starting to work on a retro handheld game console.
