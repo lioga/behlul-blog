@@ -11,7 +11,7 @@ export const site: SiteConfig = {
   author: {
     avatar: '/assets/maskable@512.png',
     name: 'Behlul Akbudak',
-    bio: 'Currently studying Electronics Engineering at Karadeniz Technical University.',
+    bio: 'I build lab and scientific instruments in Istanbul, mostly the embedded software.',
     metadata: [
       {
         //text: 'github',
@@ -20,22 +20,12 @@ export const site: SiteConfig = {
       },
       {
         // text: '0x4444777733334444',
-        icon: 'i-simple-icons-linkedin',
-        link: 'https://www.linkedin.com/in/behlulsena/',
-      },
-      {
-        // text: '0x4444777733334444',
-        icon: 'i-simple-icons-microsoftoutlook',
-        link: 'mailto:behlulsena09@hotmail.com',
-      },
-      {
-        // text: '0x4444777733334444',
-        icon: 'i-simple-icons-googledrive',
-        link: 'https://drive.google.com/file/d/1hKr-SKl9CF0QkrnWnKnfwf4DoZS0aZZW/view',
+        icon: 'i-simple-icons-gmail',
+        link: 'mailto:behlulsena444@gmail.com',
       }
 
     ]
   },
-  
+
   themeColor: '#3D4451'
 }
