@@ -79,13 +79,9 @@
     "workbox-build": "^6.6.0",
     "workbox-window": "^6.6.0"
   },
-  "pnpm": {
-    "overrides": {
-      "vite>rollup": "^3.10.0"
-    }
-  },
   "dependencies": {
     "@iconify-json/simple-icons": "^1.1.75",
     "simple-icons": "^9.18.0"
-  }
+  },
+  "packageManager": "pnpm@12.15.0"
 }
